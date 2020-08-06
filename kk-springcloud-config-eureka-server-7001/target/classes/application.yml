@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: kk-springcloud-config-eureka-server
+

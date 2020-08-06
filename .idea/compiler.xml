@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kk-springcloud-consumer-hystrix-dashboard" />
+        <module name="kk-springcloud-api" />
+        <module name="kk-springcloud-consumer-dept-feign" />
+        <module name="kk-springcloud-eureka-7002" />
+        <module name="kk-springcloud-eureka-7001" />
+        <module name="kk-springcloud-eureka-7003" />
+        <module name="kk-springcloud-config-client-3355" />
+        <module name="kk-springcloud-config-dept-eureka-client-8001" />
+        <module name="kk-springcloud-provider-dept-hystrix-8001" />
+        <module name="kk-springcloud-provider-dept-8002" />
+        <module name="kk-springcloud-provider-dept-8003" />
+        <module name="kk-springcloud-config-eureka-server-7001" />
+        <module name="kk-springcloud-consumer-dept-80" />
+        <module name="kk-springcloud-config-3344" />
+        <module name="kk-springcloud-provider-dept-8001" />
+        <module name="kk-springcloud-zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kk-springcloud" target="1.8" />
+      <module name="kk-springcloud-api" target="1.8" />
+      <module name="kk-springcloud-config-3344" target="1.8" />
+      <module name="kk-springcloud-config-client-3355" target="1.8" />
+      <module name="kk-springcloud-config-dept-eureka-client-8001" target="1.8" />
+      <module name="kk-springcloud-config-eureka-server-7001" target="1.8" />
+      <module name="kk-springcloud-consumer-dept-80" target="1.8" />
+      <module name="kk-springcloud-consumer-dept-feign" target="1.8" />
+      <module name="kk-springcloud-consumer-hystrix-dashboard" target="1.8" />
+      <module name="kk-springcloud-eureka-7001" target="1.8" />
+      <module name="kk-springcloud-eureka-7002" target="1.8" />
+      <module name="kk-springcloud-eureka-7003" target="1.8" />
+      <module name="kk-springcloud-provider-dept-8001" target="1.8" />
+      <module name="kk-springcloud-provider-dept-8002" target="1.8" />
+      <module name="kk-springcloud-provider-dept-8003" target="1.8" />
+      <module name="kk-springcloud-provider-dept-hystrix-8001" target="1.8" />
+      <module name="kk-springcloud-zuul-gateway-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

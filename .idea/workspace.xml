@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="修改" />
+    <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -253,7 +261,7 @@
       <workItem from="1535088881675" duration="3660000" />
       <workItem from="1596184063864" duration="83000" />
       <workItem from="1596184176859" duration="9489000" />
-      <workItem from="1596615453946" duration="13351000" />
+      <workItem from="1596615453946" duration="14266000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1596186808477</created>
@@ -301,6 +309,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1596185650849" />
+    <state width="365" height="316" key="Git.Branch.Popup" timestamp="1596683248251">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="365" height="316" key="Git.Branch.Popup/0.0.1440.900@0.0.1440.900" timestamp="1596683248251" />
     <state width="933" height="321" key="GridCell.Tab.0.bottom" timestamp="1596682280375">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -345,18 +357,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596615097944" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596186815075">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596683279305">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596186815075" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596683279305" />
     <state x="421" y="205" width="897" height="548" key="find.popup" timestamp="1596679011049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="205" width="897" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596679011049" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1596622014240">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1596682508218">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596622014240" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596682508218" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/microservicecloud$_Config_3344.ic" NAME=".Config_3344 Coverage Results" MODIFIED="1596614159468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

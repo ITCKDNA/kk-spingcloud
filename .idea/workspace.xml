@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e69941-515f-486e-b7b7-c7ea41132d1e" name="Default" comment="修改">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kk-springcloud-consumer-dept-feign/kk-springcloud-consumer-dept-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kk-springcloud-consumer-dept-feign/kk-springcloud-consumer-dept-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kk-springcloud-consumer-dept-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kk-springcloud-consumer-dept-feign/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,10 @@
       <workItem from="1535088881675" duration="3660000" />
       <workItem from="1596184063864" duration="83000" />
       <workItem from="1596184176859" duration="9489000" />
-      <workItem from="1596615453946" duration="15197000" />
+      <workItem from="1596615453946" duration="15675000" />
+      <workItem from="1596696394972" duration="514000" />
+      <workItem from="1596791111433" duration="733000" />
+      <workItem from="1597111529732" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1596186808477</created>
@@ -279,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596683683490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改">
+      <created>1596684601450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596684601450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,18 +320,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="246" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1596616521946" />
-    <state x="26" y="43" key="CommitChangelistDialog2" timestamp="1596683850926">
+    <state x="419" y="23" width="973" height="814" key="CommitChangelistDialog2" timestamp="1596684601289">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="26" y="43" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1596683850926" />
+    <state x="419" y="23" width="973" height="814" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1596684601289" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1596185650849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1596185650849" />
-    <state width="365" height="316" key="Git.Branch.Popup" timestamp="1596684172580">
+    <state width="365" height="316" key="Git.Branch.Popup" timestamp="1596684606737">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="365" height="316" key="Git.Branch.Popup/0.0.1440.900@0.0.1440.900" timestamp="1596684172580" />
+    <state width="365" height="316" key="Git.Branch.Popup/0.0.1440.900@0.0.1440.900" timestamp="1596684606737" />
     <state width="365" height="316" key="Git.Branch.Popup/0.23.1440.797@0.23.1440.797" timestamp="1596684105143" />
     <state width="933" height="321" key="GridCell.Tab.0.bottom" timestamp="1596682280375">
       <screen x="0" y="0" width="1440" height="900" />
@@ -367,10 +377,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596615097944" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596684175764">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596684609668">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596684175764" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596684609668" />
     <state x="421" y="205" width="897" height="548" key="find.popup" timestamp="1596679011049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
